@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./UserProfile/UserProfile.module.css";
+import styles from "./UserProfile.module.css";
 
 import { ProfileHeader } from "./UserProfile/ProfileHeader";
 import { ProfileInfo } from "./UserProfile/ProfileInfo";
